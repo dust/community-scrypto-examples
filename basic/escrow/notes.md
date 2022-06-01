@@ -1,4 +1,7 @@
-## 业务模型及流和
+## business model and flow
 ![flow](res/scrypto_example_escrow.jpg)
 
-## Scrypto知识点
+## Scrypto 
+
+#### badge
+
