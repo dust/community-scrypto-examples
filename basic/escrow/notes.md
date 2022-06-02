@@ -70,9 +70,9 @@ $quantity,$resource_address
 proof of auth, similar passport.
 
 #### Concepts
-| Scrypto                                 |  java                           |
+| Scrypto                                 |  Java                           |
 | --------------------------------------- | ------------------------------- |
-| blueprint                               | jar(java archive), application  | 
+| blueprint                               | jar(java Archive), application  | 
 | package(struct & impl)                  | class                           |
 | component                               | instance (object)               |
 | function                                | static method                   |
